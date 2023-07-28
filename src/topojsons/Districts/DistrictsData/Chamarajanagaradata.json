@@ -1,0 +1,65 @@
+
+{
+    "name": "Chamarajanagar",
+    "state": "Karnataka",
+    "population":1752753,
+    "collector":"Charulatha Somal",
+    "assembly_constituencies": [
+         {
+            "name": "Hanur",
+            "mla": "R. Narendra",
+            "population": "14200",
+            "male_voters": 30000,
+            "female_voters": 50000,
+           
+            "colleges":56,
+            "Hospitals":4,
+            "Temples":840
+        },
+        {
+            "name": "Kollegal",
+            "mla": "A. R. Krishnamurthy",
+            "population": "50700",
+            "male_voters": "25500",
+            "female_voters":" 25200",
+            
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Chamarajanagar",
+            "mla": "C Puttarangashetty",
+            "population": "50700",
+            "male_voters": "25500",
+            "female_voters":" 25200",
+          
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Gundlupet",
+            "mla": "H. M. Ganesh Prasad",
+            "population": "50700",
+            "male_voters": "25500",
+            "female_voters":" 25200",
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        }
+    ],
+    
+    "parliamentary_constituencies": [
+       {
+            "name": "Chamarajanagar",
+            "mp": "Srinivasa Prasad",
+            "population": "17,52,753",
+            "male_voters": "8,77,415",
+            "female_voters": "8,75,338"
+        } 
+    ]
+}

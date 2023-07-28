@@ -1,0 +1,134 @@
+
+{
+    "name": "Kalaburagi",
+    "state": "Karnataka",
+    "population":1752753,
+    "collector":"Smt. V V Jyothsna",
+    "assembly_constituencies": [
+         {
+            "name": "Afzalpur",
+            "mla": "M. Y. Patil",
+            "population": "14200",
+            "male_voters": 30000,
+            "female_voters": 50000,
+            "schools":58,
+            "colleges":56,
+            "Hospitals":4,
+            "Temples":840
+        },
+        {
+            "name": "Jevargi ",
+            "mla": "Ajay Singh",
+            "population": "50700",
+            "male_voters": "25500",
+            "female_voters":" 25200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Chittapur ",
+            "mla": "Priyank Kharge",
+            "population": "50700",
+            "male_voters": "25500",
+            "female_voters":" 25200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Sedam ",
+            "mla": " Dr. Sharanprakash Rudrappa Patil",
+            "population": "40700",
+            "male_voters": "15500",
+            "female_voters":" 35200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Chincholi",
+            "mla": " Umesh Jadhav",
+            "population": "40700",
+            "male_voters": "15500",
+            "female_voters":" 35200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Gulbarga Rural ",
+            "mla": " Basawaraj Mattimud",
+            "population": "40700",
+            "male_voters": "15500",
+            "female_voters":" 35200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Gulbarga Dakshin",
+            "mla": " Allamprabhu Patil Nelogi",
+            "population": "40700",
+            "male_voters": "15500",
+            "female_voters":" 35200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Gulbarga Uttar ",
+            "mla": " Kaneez Fathima",
+            "population": "40700",
+            "male_voters": "15500",
+            "female_voters":" 35200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Aland ",
+            "mla": " Bhojaraj",
+            "population": "40700",
+            "male_voters": "15500",
+            "female_voters":" 35200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        }
+
+    ],
+    
+    "parliamentary_constituencies": [
+        {
+            "name": "Gulbarga",
+            "mp": "Dr. Umesh G Jadhav",
+            "population": "17,52,753",
+            "male_voters": "8,77,415",
+            "female_voters": "8,75,338"
+        },
+        {
+            "name": "Bidar",
+            "mp": "Bhagwanth Khuba",
+            "population": "11,52,753",
+            "male_voters": "6,77,415",
+            "female_voters": "5,75,338"
+        }
+    ]
+}

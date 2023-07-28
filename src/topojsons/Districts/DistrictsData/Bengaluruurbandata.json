@@ -1,0 +1,347 @@
+{
+  "name": "Bangalore Urban",
+  "state": "Karnataka",
+  "population": 1752753,
+  "collector": "K Srinivas",
+  "assembly_constituencies": [
+    {
+      "name": "Yelahanka",
+      "mla": "S. R. Vishwanath",
+      "population": "398471",
+      "male_voters": "187586",
+      "female_voters": "210885",
+      "schools": 45,
+      "colleges": 50,
+      "Hospitals": 80,
+      "Temples": 140
+    },
+    {
+      "name": "Krishnarajapuram",
+      "mla": "Byrati Basavaraj",
+      "population": "398471",
+      "male_voters": "187586",
+      "female_voters": "210885",
+      "schools": 25,
+      "colleges": 10,
+      "Hospitals": 10,
+      "Temples": 14
+    },
+    {
+      "name": "Byatarayanapura",
+      "mla": "Krishna Byre Gowda",
+      "population": "398471",
+      "male_voters": "187586",
+      "female_voters": "210885",
+      "schools": 45,
+      "colleges": 50,
+      "Hospitals": 90,
+      "Temples": 90
+    },
+    {
+      "name": "Yeshwantpur ",
+      "mla": "S. T. Somashekhar",
+      "population": "398471",
+      "male_voters": "187586",
+      "female_voters": "210885",
+      "schools": 65,
+      "colleges": 50,
+      "Hospitals": 90,
+      "Temples": 30
+    },
+    {
+      "name": "Rajarajeshwarinagar",
+      "mla": "Munirathna",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Dasarahalli",
+      "mla": "S. Muniraju",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Mahalakshmi Layout",
+      "mla": "K. Gopalaiah",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Malleshwaram",
+      "mla": "C. N. Ashwath Narayan",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Hebbal",
+      "mla": "Byrathi Suresh",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Pulakeshinagar",
+      "mla": "R. Akhanda Srinivasamurthy",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Sarvagnanagar",
+      "mla": "K. J. George",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "C. V. Raman Nagar",
+      "mla": "S. Raghu",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Shivajinagar",
+      "mla": "Rizwan Arshad",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Shanti Nagar",
+      "mla": "Nalapad Ahmed Haris",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Gandhi Nagar",
+      "mla": "Dinesh Gundurao",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Rajaji Nagar",
+      "mla": "S. Suresh Kumar",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Govindraj Nagar",
+      "mla": "Priya Krishna",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Vijay Nagar",
+      "mla": "M. Krishnappa",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Chamrajpet",
+      "mla": "B.Z. Zameer Ahmed Khan",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Chickpet",
+      "mla": "Uday B Garudachar",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Basavanagudi",
+      "mla": "L. A. Ravi Subramanya",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Padmanabhanagar",
+      "mla": "R. Ashoka",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "B.T.M. Layout",
+      "mla": "Ramalinga Reddy",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Jayanagar",
+      "mla": "C K Ramamurthy",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Mahadevapura",
+      "mla": "Arvind Limbavali",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Bommanahalli",
+      "mla": "M. Satish Reddy",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Bangalore South",
+      "mla": "M. Krishnappa",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    },
+    {
+      "name": "Anekal ",
+      "mla": "B.Shivanna",
+      "population": "398471",
+      "male_voters": "120487",
+      "female_voters": " 117742",
+      "schools": 15,
+      "colleges": 20,
+      "Hospitals": 40,
+      "Temples": 40
+    }
+  ],
+
+  "parliamentary_constituencies": [
+    {
+      "name": "Chikballapur",
+      "mp": "B. N. Bache Gowda",
+      "population": "1,197,361",
+      "male_voters": 462131,
+      "female_voters": 715230
+    },
+    {
+      "name": "Bangalore North",
+      "mp": "D. V. Sadananda Gowda",
+      "population": "1,197,361",
+      "male_voters": 462131,
+      "female_voters": 715230
+    },
+    {
+      "name": "Bangalore Rural",
+      "mp": "D. K. Suresh",
+      "population": "1,197,361",
+      "male_voters": 462131,
+      "female_voters": 715230
+    },
+    {
+      "name": "Bangalore Central",
+      "mp": "P. C. Mohan",
+      "population": "1,197,361",
+      "male_voters": 462131,
+      "female_voters": 715230
+    }
+  ]
+}

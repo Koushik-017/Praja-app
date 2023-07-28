@@ -1,0 +1,87 @@
+
+{
+    "name": "Chitradurga",
+    "state": "Karnataka",
+    "population":1752753,
+    "collector":"Kavitha S Mannikeri",
+    "assembly_constituencies": [
+         {
+            "name": "Molakalmuru ",
+            "mla": "B. Sriramulu",
+            "population": "14200",
+            "male_voters": 30000,
+            "female_voters": 50000,
+            "schools":58,
+            "colleges":56,
+            "Hospitals":4,
+            "Temples":840
+        },
+        {
+            "name": "Challakere ",
+            "mla": "T. Raghumurthy",
+            "population": "50700",
+            "male_voters": "25500",
+            "female_voters":" 25200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Chitradurga",
+            "mla": "K C VEERENDRA (PUPPY)",
+            "population": "33900,",
+            "male_voters": "16900",
+            "female_voters": " 29000",
+            "schools":45,
+            "colleges":66,
+            "Hospitals":5,
+            "Temples":640
+        },
+        {
+            "name": "Hiriyur",
+            "mla": "D. Sudhakar",
+            "population": "50700",
+            "male_voters": "35500",
+            "female_voters": " 25200",
+            "schools":23,
+            "colleges":16,
+            "Hospitals":8,
+            "Temples":840
+        },
+        {
+            "name": "Hosadurga",
+            "mla": "Gulhatty D. Shekhar",
+            "population":  " 23800",
+            "male_voters":"12000",
+            "female_voters": " 11700",
+            "schools":23,
+            "colleges":56,
+            "Hospitals":48,
+            "Temples":840
+        },
+        {
+            "name": "Holalkere  ",
+            "mla": "M. Chandrappa",
+            "population": " 20000",
+            "male_voters": "10100",
+            "female_voters": "  99000",
+            "schools":34,
+            "colleges":60,
+            "Hospitals":30,
+            "Temples":840
+        }
+        
+    ],
+    
+    "parliamentary_constituencies": [
+        {
+            "name": "Chitradurga",
+            "mp": "A. Narayanswamy",
+            "population": "17,52,753",
+            "male_voters": "8,77,415",
+            "female_voters": "8,75,338"
+        }
+    ]
+}

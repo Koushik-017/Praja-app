@@ -1,0 +1,66 @@
+
+{
+    "name": "Bangalore Rural",
+    "state": "Karnataka",
+    "population":1752753,
+    "collector":"Smt R.Latha IAS",
+    "assembly_constituencies": [
+         {
+            "name": "Devanahalli ",
+            "mla": "K. H. Muniyappa",
+            "population": "14200",
+            "male_voters": 30000,
+            "female_voters": 50000,
+            "schools":58,
+            "colleges":56,
+            "Hospitals":4,
+            "Temples":840
+        },
+        {
+            "name": "Doddaballapur ",
+            "mla": "T. Venkataramanaiah",
+            "population": "50700",
+            "male_voters": "25500",
+            "female_voters":" 25200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Nelamangala  ",
+            "mla": "K. Srinivasamurthy",
+            "population": "50700",
+            "male_voters": "25500",
+            "female_voters":" 25200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Hoskote",
+            "mla": " Sharath Kumar Bache Gowda",
+            "population": "40700",
+            "male_voters": "15500",
+            "female_voters":" 35200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        }
+    ],
+    
+    "parliamentary_constituencies": [
+        {
+            "name": "Chikballapur",
+            "mp": "B. N. Bache Gowda",
+            "population": "17,52,753",
+            "male_voters": "8,77,415",
+            "female_voters": "8,75,338"
+        }
+    ]
+}

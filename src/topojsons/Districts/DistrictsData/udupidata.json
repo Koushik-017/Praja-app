@@ -1,0 +1,81 @@
+{
+    "name": "Udupi",
+    "state": "Karnataka",
+    "population":1752753,
+    "collector":"G Jagadeesha",
+    "assembly_constituencies": [
+         {
+            "name": "Kundapura",
+            "mla": "Halady Srinivas Shetty",
+            "population": "398471",
+            "male_voters": "187586",
+            "female_voters": "210885",
+            "schools":45,
+            "colleges":50,
+            "Hospitals":80,
+            "Temples":140
+        },
+        {
+            "name": "Byndoor ",
+            "mla": "B. M. Sukumar Shetty",
+            "population": "398471",
+            "male_voters": "187586",
+            "female_voters":"210885",
+            "schools":25,
+            "colleges":10,
+            "Hospitals":10,
+            "Temples":14
+        },
+        {
+            "name": "udupi",
+            "mla": "K. Raghupati Bhat",
+            "population": "398471",
+            "male_voters": "187586",
+            "female_voters": "210885",
+            "schools":45,
+            "colleges":50,
+            "Hospitals":90,
+            "Temples":90
+        },
+        {
+            "name": "kapu",
+            "mla": "Lalaji Mendon",
+            "population": "398471",
+            "male_voters": "187586",
+            "female_voters": "210885",
+            "schools":65,
+            "colleges":50,
+            "Hospitals":90,
+            "Temples":30
+        },
+        {
+            "name": "karkala",
+            "mla": "V. Sunil Kumar",
+            "population":  "398471",
+            "male_voters":"120,487",
+            "female_voters": " 117,742",
+            "schools":15,
+            "colleges":20,
+            "Hospitals":40,
+            "Temples":40
+        }
+    ],
+    "parliamentary_constituencies": [
+        {
+            "name": "udupi",
+            "mp": "shobhakarandlaje",
+            "population": "1,177,361"
+            ,
+            "male_voters": 562131,
+            "female_voters": 615230
+        },
+        {
+            "name": "Chikmagalur",
+            "mp": "Shobha Karandlaje",
+            "population": "1,177,361"
+            ,
+            "male_voters": 562131,
+            "female_voters": 615230
+        }
+    ]
+}

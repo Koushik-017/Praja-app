@@ -1,0 +1,156 @@
+{
+    "name": "Tumakuru",
+    "state": "Karnataka",
+    "population":1752753,
+    "collector":"Sri. Patil Yalagouda Shivanagouda",
+    "assembly_constituencies": [
+         {
+            "name": "Chiknayakanhalli",
+            "mla": "J. C. Madhuswamy",
+            "population": "398471",
+            "male_voters": "187586",
+            "female_voters": "210885",
+            "schools":45,
+            "colleges":50,
+            "Hospitals":80,
+            "Temples":140
+        },
+        {
+            "name": "Tiptur",
+            "mla": "K Shadakshari",
+            "population": "398471",
+            "male_voters": "187586",
+            "female_voters":"210885",
+            "schools":25,
+            "colleges":10,
+            "Hospitals":10,
+            "Temples":14
+        },
+        {
+            "name": "Turuvekere",
+            "mla": "A. S. Jayaram",
+            "population": "398471",
+            "male_voters": "187586",
+            "female_voters": "210885",
+            "schools":45,
+            "colleges":50,
+            "Hospitals":90,
+            "Temples":90
+        },
+        {
+            "name": "Kunigal",
+            "mla": "Dr H.D. Ranganath",
+            "population": "398471",
+            "male_voters": "187586",
+            "female_voters": "210885",
+            "schools":65,
+            "colleges":50,
+            "Hospitals":90,
+            "Temples":30
+        },
+        {
+            "name": "Tumkur City",
+            "mla": "G. B. Jyothi Ganesh",
+            "population":  "398471",
+            "male_voters":"120,487",
+            "female_voters": " 117,742",
+            "schools":15,
+            "colleges":20,
+            "Hospitals":40,
+            "Temples":40
+        },
+        {
+            "name": "Tumkur Rural",
+            "mla": "Suresh Gowda",
+            "population":  "398471",
+            "male_voters":"120,487",
+            "female_voters": " 117,742",
+            "schools":15,
+            "colleges":20,
+            "Hospitals":40,
+            "Temples":40
+        },
+        {
+            "name": "Koratagere",
+            "mla": "G. Parameshwara",
+            "population":  "398471",
+            "male_voters":"120,487",
+            "female_voters": " 117,742",
+            "schools":15,
+            "colleges":20,
+            "Hospitals":40,
+            "Temples":40
+        },
+        {
+            "name": "Gubbi",
+            "mla": "S. R. Srinivas",
+            "population":  "398471",
+            "male_voters":"120,487",
+            "female_voters": " 117,742",
+            "schools":15,
+            "colleges":20,
+            "Hospitals":40,
+            "Temples":40
+        },
+        {
+            "name": "Sira",
+            "mla": "Rajesh Gowda",
+            "population":  "398471",
+            "male_voters":"120,487",
+            "female_voters": " 117,742",
+            "schools":15,
+            "colleges":20,
+            "Hospitals":40,
+            "Temples":40
+        },
+        {
+            "name": "Pavagada ",
+            "mla": "Venkataramanappa",
+            "population":  "398471",
+            "male_voters":"120,487",
+            "female_voters": " 117,742",
+            "schools":15,
+            "colleges":20,
+            "Hospitals":40,
+            "Temples":40
+        },
+        {
+            "name": "Madhugiri",
+            "mla": "K. N. Rajanna",
+            "population":  "398471",
+            "male_voters":"120,487",
+            "female_voters": " 117,742",
+            "schools":15,
+            "colleges":20,
+            "Hospitals":40,
+            "Temples":40
+        }
+    ],
+    "parliamentary_constituencies": [
+        {
+            "name": "Tumkur",
+            "mp": "G. S. Basavaraj",
+            "population": "1,197,361"
+            ,
+            "male_voters": 462131,
+            "female_voters": 715230
+        },
+        {
+            "name": "Bangalore Rural",
+            "mp": "D. K. Suresh",
+            "population": "2,127,361"
+            ,
+            "male_voters": 662131,
+            "female_voters": 415230
+        },
+        
+        {
+            "name": "Chitradurga",
+            "mp": "A. Narayanswamy",
+            "population": "2,277,361"
+            ,
+            "male_voters": 562131,
+            "female_voters": 515230
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "name": "Chikkaballapura",
+    "state": "Karnataka",
+    "population":1752753,
+    "collector":"Shri.Nagraj N.M,IAS",
+    "assembly_constituencies": [
+         {
+            "name": "Gauribidanur",
+            "mla": "N. H. Shivashankara Reddy",
+            "population": "398471",
+            "male_voters": "187586",
+            "female_voters": "210885",
+            "schools":45,
+            "colleges":50,
+            "Hospitals":80,
+            "Temples":140
+        },
+        {
+            "name": "Bagepalli",
+            "mla": "S N Subbareddy",
+            "population": "398471",
+            "male_voters": "187586",
+            "female_voters":"210885",
+            "schools":25,
+            "colleges":10,
+            "Hospitals":10,
+            "Temples":14
+        },
+        {
+            "name": "Chikkaballapur",
+            "mla": "Pradeep Easwer",
+            "population": "398471",
+            "male_voters": "187586",
+            "female_voters": "210885",
+            "schools":45,
+            "colleges":50,
+            "Hospitals":90,
+            "Temples":90
+        },
+        {
+            "name": "Sidlaghatta",
+            "mla": "V Muniyappa",
+            "population": "398471",
+            "male_voters": "187586",
+            "female_voters": "210885",
+            "schools":65,
+            "colleges":50,
+            "Hospitals":90,
+            "Temples":30
+        },
+        {
+            "name": "Chintamani",
+            "mla": "M. C. Sudhakar",
+            "population":  "398471",
+            "male_voters":"120,487",
+            "female_voters": " 117,742",
+            "schools":15,
+            "colleges":20,
+            "Hospitals":40,
+            "Temples":40
+        }
+    ],
+    "parliamentary_constituencies": [
+        {
+            "name": "Chikballapur",
+            "mp": "B. N. Bache Gowda",
+            "population": "1,197,361"
+            ,
+            "male_voters": 462131,
+            "female_voters": 715230
+        },
+        {
+            "name": "Kolar",
+            "mp": "S. Muniswamy",
+            "population": "2,127,361"
+            ,
+            "male_voters": 662131,
+            "female_voters": 415230
+        }
+    ]
+}

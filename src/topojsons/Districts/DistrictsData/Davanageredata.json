@@ -1,0 +1,98 @@
+
+{
+    "name": "Devangere",
+    "state": "Karnataka",
+    "population":1752753,
+    "collector":"Bagadi Gautham",
+    "assembly_constituencies": [
+         {
+            "name": "Jagalur",
+            "mla": "B Devendrappa",
+            "population": "14200",
+            "male_voters": 30000,
+            "female_voters": 50000,
+            "schools":58,
+            "colleges":56,
+            "Hospitals":4,
+            "Temples":840
+        },
+       
+        {
+            "name": "Harihar",
+            "mla": "B P Harish",
+            "population": "33900,",
+            "male_voters": "16900",
+            "female_voters": " 29000",
+            "schools":45,
+            "colleges":66,
+            "Hospitals":5,
+            "Temples":640
+        },
+        {
+            "name": "Davanagere North",
+            "mla": "Shamanur Mallikarjun",
+            "population": "50700",
+            "male_voters": "35500",
+            "female_voters": " 25200",
+            "schools":23,
+            "colleges":16,
+            "Hospitals":8,
+            "Temples":840
+        },
+        {
+            "name": "Davanagere South",
+            "mla": "Shamanur Shivashankarappa",
+            "population":  " 23800",
+            "male_voters":"12000",
+            "female_voters": " 11700",
+            "schools":23,
+            "colleges":56,
+            "Hospitals":48,
+            "Temples":840
+        },
+        {
+            "name": "Mayakonda ",
+            "mla": "K. S. Basavanthappa",
+            "population": " 20000",
+            "male_voters": "10100",
+            "female_voters": "  99000",
+            "schools":34,
+            "colleges":60,
+            "Hospitals":30,
+            "Temples":840
+        },
+        {
+            "name": "Channagiri",
+            "mla": "Basavaraju V Shivaganga",
+            "population": " 20000",
+            "male_voters": "10100",
+            "female_voters": "  99000",
+            "schools":34,
+            "colleges":60,
+            "Hospitals":30,
+            "Temples":840
+        },
+        {
+            "name": "Honnali ",
+            "mla": "Shanthana Gowda DG",
+            "population": " 20000",
+            "male_voters": "10100",
+            "female_voters": "  99000",
+            "schools":34,
+            "colleges":60,
+            "Hospitals":30,
+            "Temples":840
+        }
+        
+    ],
+    
+    "parliamentary_constituencies": [
+        {
+            "name": "Davanagere ",
+            "mp": "G.M. Siddeshwara",
+            "population": "17,52,753",
+            "male_voters": "8,77,415",
+            "female_voters": "8,75,338"
+        }
+    ]
+}

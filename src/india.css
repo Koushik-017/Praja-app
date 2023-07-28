@@ -1,0 +1,10 @@
+/* .style{
+    margin-left: '2px';
+    flex: 1;
+    text-align: center;
+} */
+
+:focus {
+    /* outline: -webkit-focus-ring-color auto 5px; */
+    outline: none;
+}

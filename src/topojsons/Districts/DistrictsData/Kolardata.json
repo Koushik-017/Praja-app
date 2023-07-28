@@ -1,0 +1,85 @@
+{
+    "name": "Kolar",
+    "state": "Karnataka",
+    "population":1752753,
+    "collector":"Sri Venkat Raja",
+    "assembly_constituencies": [
+         {
+            "name": "Srinivaspur",
+            "mla": "G.K. Venkatashiva Reddy",
+            "population": "398471",
+            "male_voters": "187586",
+            "female_voters": "210885",
+            "schools":45,
+            "colleges":50,
+            "Hospitals":80,
+            "Temples":140
+        },
+        {
+            "name": "Mulbagal",
+            "mla": "Samruddi Manjunath",
+            "population": "398471",
+            "male_voters": "187586",
+            "female_voters":"210885",
+            "schools":25,
+            "colleges":10,
+            "Hospitals":10,
+            "Temples":14
+        },
+        {
+            "name": "Kolar Gold Field",
+            "mla": "Roopakala M",
+            "population": "398471",
+            "male_voters": "187586",
+            "female_voters": "210885",
+            "schools":45,
+            "colleges":50,
+            "Hospitals":90,
+            "Temples":90
+        },
+        {
+            "name": "Bangarapet ",
+            "mla": "V Muniyappa",
+            "population": "398471",
+            "male_voters": "187586",
+            "female_voters": "210885",
+            "schools":65,
+            "colleges":50,
+            "Hospitals":90,
+            "Temples":30
+        },
+        {
+            "name": "Kolar",
+            "mla": "Kothur G. Manjunath",
+            "population":  "398471",
+            "male_voters":"120,487",
+            "female_voters": " 117,742",
+            "schools":15,
+            "colleges":20,
+            "Hospitals":40,
+            "Temples":40
+        },
+        {
+            "name": "Malur",
+            "mla": "K.Y. Nanjegowda",
+            "population":  "398471",
+            "male_voters":"120,487",
+            "female_voters": " 117,742",
+            "schools":15,
+            "colleges":20,
+            "Hospitals":40,
+            "Temples":40
+        }
+    ],
+    
+    "parliamentary_constituencies": [
+        {
+            "name": "Kolar",
+            "mp": "S. Muniswamy",
+            "population": "1,197,361"
+            ,
+            "male_voters": 462131,
+            "female_voters": 715230
+        }
+    ]
+}

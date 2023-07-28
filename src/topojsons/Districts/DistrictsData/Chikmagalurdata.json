@@ -1,0 +1,96 @@
+
+{
+    "name": "Chikmagalur",
+    "state": "Karnataka",
+    "population":1752753,
+    "collector":"Smt. Charulatha Somal",
+    "assembly_constituencies": [
+         {
+            "name": "Thirathalli",
+            "mla": "Araga Jnanendra",
+            "population": "14200",
+            "male_voters": 30000,
+            "female_voters": 50000,
+            "schools":58,
+            "colleges":56,
+            "Hospitals":4,
+            "Temples":840
+        },
+        {
+            "name": "Shimoga Rural ",
+            "mla": "K. B. Ashok Naik",
+            "population": "50700",
+            "male_voters": "25500",
+            "female_voters":" 25200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Bhadravati ",
+            "mla": "B. K. Sangameshwara",
+            "population": "33900,",
+            "male_voters": "16900",
+            "female_voters": " 29000",
+            "schools":45,
+            "colleges":66,
+            "Hospitals":5,
+            "Temples":640
+        },
+        {
+            "name": "Shimoga",
+            "mla": "K.S. Eshwarappa",
+            "population": "50700",
+            "male_voters": "35500",
+            "female_voters": " 25200",
+            "schools":23,
+            "colleges":16,
+            "Hospitals":8,
+            "Temples":840
+        },
+        {
+            "name": "Shikaripura",
+            "mla": "B. S. Yeddyurappa",
+            "population":  " 23800",
+            "male_voters":"12000",
+            "female_voters": " 11700",
+            "schools":23,
+            "colleges":56,
+            "Hospitals":48,
+            "Temples":840
+        },
+        {
+            "name": "Soraba ",
+            "mla": "Kumar Bangarappa",
+            "population": " 20000",
+            "male_voters": "10100",
+            "female_voters": "  99000",
+            "schools":34,
+            "colleges":60,
+            "Hospitals":30,
+            "Temples":840
+        },
+        {
+            "name": "Sagara",
+            "mla": "Harthal halappa",
+            "population":  "20600",
+            "male_voters":"10200",
+            "female_voters": "  10400",
+            "schools":21,
+            "colleges":57,
+            "Hospitals":20,
+            "Temples":84
+        }
+    ],
+    "parliamentary_constituencies": [
+        {
+            "name": "Shimoga",
+            "mp": "B.y.Raghavendra",
+            "population": "17,52,753",
+            "male_voters": "8,77,415",
+            "female_voters": "8,75,338"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+
+{
+    "name": "Vijaynagara",
+    "state": "Karnataka",
+    "population":1752753,
+    "collector":"Pavan Kumar Malapati, IAS",
+    "assembly_constituencies": [
+         {
+            "name": "Hoovina Hadagali",
+            "mla": "P. T. Parameshwar Naik",
+            "population": "14200",
+            "male_voters": 30000,
+            "female_voters": 50000,
+            "schools":58,
+            "colleges":56,
+            "Hospitals":4,
+            "Temples":840
+        },
+        {
+            "name": "Hagaribommanahalli ",
+            "mla": "Bheema Naik L. B",
+            "population": "50700",
+            "male_voters": "25500",
+            "female_voters":" 25200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Vijayanagara",
+            "mla": "H. R. Gaviyappa",
+            "population": "33900,",
+            "male_voters": "16900",
+            "female_voters": " 29000",
+            "schools":45,
+            "colleges":66,
+            "Hospitals":5,
+            "Temples":640
+        },
+        {
+            "name": "Kampli",
+            "mla": "J. N. Ganesh",
+            "population": "50700",
+            "male_voters": "35500",
+            "female_voters": " 25200",
+            "schools":23,
+            "colleges":16,
+            "Hospitals":8,
+            "Temples":840
+        },
+        {
+            "name": "Siruguppa",
+            "mla": "M. S. Somalingappal",
+            "population":  " 23800",
+            "male_voters":"12000",
+            "female_voters": " 11700",
+            "schools":23,
+            "colleges":56,
+            "Hospitals":48,
+            "Temples":840
+        },
+        {
+            "name": "Bellary Rural ",
+            "mla": "B Nagendra",
+            "population": " 20000",
+            "male_voters": "10100",
+            "female_voters": "  99000",
+            "schools":34,
+            "colleges":60,
+            "Hospitals":30,
+            "Temples":840
+        },
+        {
+            "name": "Bellary City",
+            "mla": "Nara Bharath Reddy",
+            "population":  "20600",
+            "male_voters":"10200",
+            "female_voters": "  10400",
+            "schools":21,
+            "colleges":57,
+            "Hospitals":20,
+            "Temples":84
+        },
+        {
+            "name": "Harapanahalli",
+            "mla": "M P Latha Mallikarjun",
+            "population": "50700",
+            "male_voters": "25500",
+            "female_voters":" 25200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        
+        
+        {
+            "name": "Sandur",
+            "mla": "E. Tukaram",
+            "population":  "20600",
+            "male_voters":"10200",
+            "female_voters": "  10400",
+            "schools":21,
+            "colleges":57,
+            "Hospitals":20,
+            "Temples":84
+        }
+        
+    ],
+    
+    "parliamentary_constituencies": [
+        {
+            "name": "Bellary",
+            "mp": "Y. Devendrappa",
+            "population": "17,52,753",
+            "male_voters": "8,77,415",
+            "female_voters": "8,75,338"
+        },
+        {
+            "name": "Koppal",
+            "mp": "Karadi Sanganna Amarappa",
+            "population": "17,52,753",
+            "male_voters": "8,77,415",
+            "female_voters": "8,75,338"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+
+{
+    "name": "Vijayapura",
+    "state": "Karnataka",
+    "population":1752753,
+    "collector":"Vijayamahantesh B Danammanavar, IAS",
+    "assembly_constituencies": [
+         {
+            "name": "Muddebihal",
+            "mla": "C. S. Nadagouda",
+            "population": "14200",
+            "male_voters": 30000,
+            "female_voters": 50000,
+            "schools":58,
+            "colleges":56,
+            "Hospitals":4,
+            "Temples":840
+        },
+        {
+            "name": "Devar Hippargi ",
+            "mla": "B B Patil",
+            "population": "50700",
+            "male_voters": "25500",
+            "female_voters":" 25200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Basavana Bagevadi",
+            "mla": "Shivanand Patil",
+            "population": "33900,",
+            "male_voters": "16900",
+            "female_voters": " 29000",
+            "schools":45,
+            "colleges":66,
+            "Hospitals":5,
+            "Temples":640
+        },
+        {
+            "name": "Babaleshwar",
+            "mla": "M. B. Patil",
+            "population": "50700",
+            "male_voters": "35500",
+            "female_voters": " 25200",
+            "schools":23,
+            "colleges":16,
+            "Hospitals":8,
+            "Temples":840
+        },
+        {
+            "name": "Bijapur City",
+            "mla": "Basangouda Patil Yatnal",
+            "population":  " 23800",
+            "male_voters":"12000",
+            "female_voters": " 11700",
+            "schools":23,
+            "colleges":56,
+            "Hospitals":48,
+            "Temples":840
+        },
+        {
+            "name": "Nagathan",
+            "mla": "K V Donbida",
+            "population": " 20000",
+            "male_voters": "10100",
+            "female_voters": "  99000",
+            "schools":34,
+            "colleges":60,
+            "Hospitals":30,
+            "Temples":840
+        },
+        {
+            "name": "Indi",
+            "mla": "Yashavantarayagouda Viitalagouda Patil",
+            "population":  "20600",
+            "male_voters":"10200",
+            "female_voters": "  10400",
+            "schools":21,
+            "colleges":57,
+            "Hospitals":20,
+            "Temples":84
+        },{
+            "name": "Sindagi",
+            "mla": "A M Managuli",
+            "population":  "20600",
+            "male_voters":"10200",
+            "female_voters": "  10400",
+            "schools":21,
+            "colleges":57,
+            "Hospitals":20,
+            "Temples":84
+        }
+        
+    ],
+    
+    "parliamentary_constituencies": [
+        {
+            "name": "Bijapur",
+            "mp": "Ramesh Jigajinagi",
+            "population": "17,52,753",
+            "male_voters": "8,77,415",
+            "female_voters": "8,75,338"
+        }
+    ]
+}

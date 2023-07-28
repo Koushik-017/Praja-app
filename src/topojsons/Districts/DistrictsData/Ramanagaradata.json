@@ -1,0 +1,66 @@
+
+{
+    "name": "Ramanagara",
+    "state": "Karnataka",
+    "population":1752753,
+    "collector":"Dr.K.Rakesh Kumar",
+    "assembly_constituencies": [
+         {
+            "name": "Magadi ",
+            "mla": "H. C. Balakrishna",
+            "population": "14200",
+            "male_voters": 30000,
+            "female_voters": 50000,
+            "schools":58,
+            "colleges":56,
+            "Hospitals":4,
+            "Temples":840
+        },
+        {
+            "name": "Ramanagara",
+            "mla": "Iqbal Hussain H. A.",
+            "population": "50700",
+            "male_voters": "25500",
+            "female_voters":" 25200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Kanakapura ",
+            "mla": "D. K. Shivakumar",
+            "population": "50700",
+            "male_voters": "25500",
+            "female_voters":" 25200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Channapatna",
+            "mla": " H. D. Kumaraswamy",
+            "population": "40700",
+            "male_voters": "15500",
+            "female_voters":" 35200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        }
+    ],
+    
+    "parliamentary_constituencies": [
+        {
+            "name": "Bangalore Rural",
+            "mp": "D. K. Suresh",
+            "population": "17,52,753",
+            "male_voters": "8,77,415",
+            "female_voters": "8,75,338"
+        }
+    ]
+}

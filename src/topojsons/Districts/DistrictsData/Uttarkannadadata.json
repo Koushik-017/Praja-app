@@ -1,0 +1,91 @@
+
+{
+    "name": "Uttara Kannada",
+    "state": "Karnataka",
+    "population":1752753,
+    "collector":"Sri. Prabhuling Kavalikatti , I.A.S",
+    "assembly_constituencies": [
+         {
+            "name": "Haliyal",
+            "mla": "R. V. Deshpande",
+            "population": "14200",
+            "male_voters": 30000,
+            "female_voters": 50000,
+            "schools":58,
+            "colleges":56,
+            "Hospitals":4,
+            "Temples":840
+        },
+        {
+            "name": "Karwar ",
+            "mla": "Roopali Naik",
+            "population": "50700",
+            "male_voters": "25500",
+            "female_voters":" 25200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Kumta",
+            "mla": "Dinakar Keshav Shetty",
+            "population": "50700",
+            "male_voters": "25500",
+            "female_voters":" 25200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Bhatkal",
+            "mla": "M. S. Vaidya",
+            "population": "40700",
+            "male_voters": "15500",
+            "female_voters":" 35200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Sirsi",
+            "mla": " Bhimanna Naik",
+            "population": "40700",
+            "male_voters": "15500",
+            "female_voters":" 35200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        },
+        {
+            "name": "Yellapur",
+            "mla": " Arbail Hebbar Shivaram",
+            "population": "40700",
+            "male_voters": "15500",
+            "female_voters":" 35200",
+            "schools":70,
+            "colleges":246,
+            "Hospitals":5,
+            "Temples":740
+
+        }
+    ],
+    
+    "parliamentary_constituencies": [
+        {
+            "name": "Uttara Kannada",
+            "mp": "Anantkumar Hegde",
+            "population": "17,52,753",
+            "male_voters": "8,77,415",
+            "female_voters": "8,75,338"
+        }
+
+    ]
+}
